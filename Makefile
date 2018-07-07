@@ -1,6 +1,6 @@
 OBJS = main.cpp
 
-# Specifies compiler
+# specifies compiler
 CC = g++
 
 INCLUDE_PATHS = -IC:\SDL2_MingGW_x86\include\SDL2
